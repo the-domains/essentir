@@ -1,0 +1,28 @@
+name: EsSentir
+favicon: null
+layout_spectrum: 0.14592838566750288
+typography_spectrum: 0.5144329357426614
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.02922938484698534
+  lightness: 0.09111520391888916
+  saturation: 0.8653773253317922
+  rhythmicContrast: 0.9625442910473794
+purpose: []
