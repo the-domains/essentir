@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[EsSentir]]></title>
         <description><![CDATA[EsSentir]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/essentir/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 19:50:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 21:04:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/essentir/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/058d4804-d0e6-4ab5-a76c-943ff80c4eec.png">]]></description>
+            <link>https://thegrid.ai/essentir/56ea0645-600b-4934-898b-129f78887f9a/index.html</link>
+            <guid isPermaLink="false">56ea0645-600b-4934-898b-129f78887f9a</guid>
+            <pubDate>Tue, 23 Feb 2016 21:04:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Y tu que sientes?]]></title>
-            <description><![CDATA[<article><h1>Y tu que sientes?</h1><p>En un día sentimos miles de emociones, diferentes o repetidas... Te has puesto a pensar cuales son? Y a que acción o consecuencia nos llevan? Que puede pasar en nuestra vida si decidimos cambiar nuestras emociones?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4ba00c6e22b95a6e97237f0101c58f03b7a67d3.png"></article>]]></description>
-            <link>undefinedy-tu-que-sientes/index.html</link>
+            <description><![CDATA[<article><h1>Y tu que sientes?</h1><p>En un día sentimos miles de emociones, diferentes o repetidas... Te has puesto a pensar cuales son? Y a que acción o consecuencia nos llevan? Que puede pasar en nuestra vida si decidimos cambiar nuestras emociones?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f08d15a4512ac1cdca89e60f42fa8f560eb311b4.png"></article>]]></description>
+            <link>https://thegrid.ai/essentir/y-tu-que-sientes/index.html</link>
             <guid isPermaLink="false">a552fad7-cdfa-442c-b195-fe3df4346ffd</guid>
             <pubDate>Tue, 26 Jan 2016 19:50:06 GMT</pubDate>
         </item>
